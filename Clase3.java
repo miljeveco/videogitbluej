@@ -5,7 +5,7 @@
  * @author (Milton J. Vera Contreras miljeveco@gmail.com)
  * @version 0.00000001
  */
-public class Clase3 extends Clase2
+public class Clase3 extends Clase4
 {
     //entradas
 
